@@ -1,0 +1,139 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jmeterMotan:war exploded">
+    <output-path>$PROJECT_DIR$/jmeterMotan/target/jmeter-common-4.0.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>jmeterMotan</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jmeterMotan" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/mtools-sdk/4.0.0-SNAPSHOT/mtools-sdk-4.0.0-20181203.094545-55.jar" output-file-name="mtools-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/base-sdk/4.0.0-SNAPSHOT/base-sdk-4.0.0-20181129.092355-7.jar" output-file-name="base-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-core:1.3.0-GA" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-datasource-zookeeper:1.3.0-GA" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-datasource-extension:1.3.0-GA" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.11" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: junit:junit:4.12" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.apache.yetus:audience-annotations:0.5.0" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.10.5.Final" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-recipes:2.10.0" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-framework:2.10.0" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-client:2.10.0" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-parameter-flow-control:1.3.0-GA" />
+          <element id="library" level="project" name="Maven: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2" />
+          <element id="library" level="project" name="Maven: org.perf4j:perf4j:0.9.16" />
+          <element id="library" level="project" name="Maven: cn.hutool:hutool-cron:4.1.17" />
+          <element id="library" level="project" name="Maven: cn.hutool:hutool-core:4.1.17" />
+          <element id="library" level="project" name="Maven: cn.hutool:hutool-setting:4.1.17" />
+          <element id="library" level="project" name="Maven: cn.hutool:hutool-log:4.1.17" />
+          <element id="library" level="project" name="Maven: net.dreamlu:JFinal-event:2.0.4" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/wop-sdk/4.0.0-SNAPSHOT/wop-sdk-4.0.0-20181129.070207-126.jar" output-file-name="wop-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/crm-sdk/4.0.0-SNAPSHOT/crm-sdk-4.0.0-20181122.021022-164.jar" output-file-name="crm-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:4.2.0.Final" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-wechat-sdk/1.1-SNAPSHOT/sqq-wechat-sdk-1.1-20181116.100331-48.jar" output-file-name="sqq-wechat-sdk-1.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/mkt-sdk/4.0.0-SNAPSHOT/mkt-sdk-4.0.0-20181123.061933-67.jar" output-file-name="mkt-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:2.0.1.Final" />
+          <element id="library" level="project" name="Maven: com.jfinal:jfinal:3.5" />
+          <element id="library" level="project" name="Maven: cglib:cglib-nodep:3.2.5" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.45" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/site-common/4.0.0-SNAPSHOT/site-common-4.0.0-20181127.070832-115.jar" output-file-name="site-common-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.44" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.7" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-sequence/4.0.0-SNAPSHOT/sqq-tool-sequence-4.0.0-20180613.091351-4.jar" output-file-name="sqq-tool-sequence-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-redisson/4.0.0-SNAPSHOT/sqq-tool-redisson-4.0.0-20180517.023648-4.jar" output-file-name="sqq-tool-redisson-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.redisson:redisson:3.5.7" />
+          <element id="library" level="project" name="Maven: javax.cache:cache-api:1.0.0" />
+          <element id="library" level="project" name="Maven: io.projectreactor:reactor-core:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.reactivestreams:reactive-streams:1.0.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.7.9" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.9" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.9" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.7.0" />
+          <element id="library" level="project" name="Maven: net.openhft:zero-allocation-hashing:0.8" />
+          <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.6.14" />
+          <element id="library" level="project" name="Maven: org.jodd:jodd-bean:3.7.1" />
+          <element id="library" level="project" name="Maven: org.jodd:jodd-core:3.7.1" />
+          <element id="library" level="project" name="Maven: io.netty:netty-all:4.1.16.Final" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.12" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.12" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.12" />
+          <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/plat-sdk/4.0.0-SNAPSHOT/plat-sdk-4.0.0-20181203.031658-403.jar" output-file-name="plat-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/site-jfinal/4.0.0-SNAPSHOT/site-jfinal-4.0.0-20181127.073336-111.jar" output-file-name="site-jfinal-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.weibo:motan-core:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: com.caucho:hessian:4.0.37" />
+          <element id="library" level="project" name="Maven: com.codahale.metrics:metrics-core:3.0.1" />
+          <element id="library" level="project" name="Maven: com.squareup:javapoet:1.8.0" />
+          <element id="library" level="project" name="Maven: com.weibo:motan-transport-netty4:1.1.1" />
+          <element id="library" level="project" name="Maven: com.weibo:motan-registry-zookeeper:1.1.1" />
+          <element id="library" level="project" name="Maven: com.101tec:zkclient:0.10" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.27-incubating" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.18.RELEASE" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-token/4.0.0-SNAPSHOT/sqq-tool-token-4.0.0-20180130.083201-1.jar" output-file-name="sqq-tool-token-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/trade-sdk/4.0.0-SNAPSHOT/trade-sdk-4.0.0-20181122.073549-139.jar" output-file-name="trade-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/msite-sdk/4.0-SNAPSHOT/msite-sdk-4.0-20181129.030440-12.jar" output-file-name="msite-sdk-4.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: io.shardingjdbc:sharding-jdbc-core:2.0.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:indy:2.4.5" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.16" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-mq/4.0.0-SNAPSHOT/sqq-tool-mq-4.0.0-20180704.031201-13.jar" output-file-name="sqq-tool-mq-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-client:4.2.0" />
+          <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-common:4.2.0" />
+          <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-remoting:4.2.0" />
+          <element id="library" level="project" name="Maven: io.netty:netty-tcnative:1.1.33.Fork22" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.31" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-zk/4.0.0-SNAPSHOT/sqq-tool-zk-4.0.0-20180611.024910-8.jar" output-file-name="sqq-tool-zk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-ds/4.0.0-SNAPSHOT/sqq-tool-ds-4.0.0-20180130.075410-6.jar" output-file-name="sqq-tool-ds-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/plat-schedule-sdk/4.0.0-SNAPSHOT/plat-schedule-sdk-4.0.0-20181203.085956-24.jar" output-file-name="plat-schedule-sdk-4.0.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sqq/sqq-tool-schedule/4.0.0-SNAPSHOT/sqq-tool-schedule-4.0.0-20181123.100805-6.jar" output-file-name="sqq-tool-schedule-4.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.dangdang:elastic-job-lite-core:2.1.5" />
+          <element id="library" level="project" name="Maven: com.dangdang:elastic-job-common-core:2.1.5" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.6.1" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.3" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-exec:1.3" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-jexl:2.1.1.alpha" />
+          <element id="library" level="project" name="Maven: org.jxls:jxls:2.3.0" />
+          <element id="library" level="project" name="Maven: net.sf.jxls:jxls-core:1.0.6" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:2.0" />
+          <element id="library" level="project" name="Maven: com.jfinal:cos:2017.5" />
+          <element id="library" level="project" name="Maven: com.lmax:disruptor:3.4.2" />
+          <element id="library" level="project" name="Maven: com.google.zxing:core:3.2.1" />
+          <element id="library" level="project" name="Maven: com.google.zxing:javase:3.2.1" />
+          <element id="library" level="project" name="Maven: com.beust:jcommander:1.48" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jmeterMotan/target/jmeter-common-4.0.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jmeterMotan/web/Web" />
+    </root>
+  </artifact>
+</component>

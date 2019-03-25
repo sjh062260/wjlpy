@@ -1,0 +1,9 @@
+[
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getTenantInfo",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getCategoryList",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getStoreList",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getStoreInfo",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getGradeList",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getMemberInfo_Mobile",
+  "test_wopStandardThirdAlldragon.py::TestWopStandard::()::test_getMemberInfo_MemberId"
+]

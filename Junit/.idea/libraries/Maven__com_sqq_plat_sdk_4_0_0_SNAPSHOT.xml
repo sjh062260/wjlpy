@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:plat-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-sdk/4.0.0-SNAPSHOT/plat-sdk-4.0.0-20181203.031658-403.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-sdk/4.0.0-SNAPSHOT/plat-sdk-4.0.0-20181203.031658-403-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-sdk/4.0.0-SNAPSHOT/plat-sdk-4.0.0-20181203.031658-403-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

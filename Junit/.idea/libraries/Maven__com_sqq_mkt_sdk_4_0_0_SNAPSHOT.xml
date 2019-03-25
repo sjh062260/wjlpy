@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:mkt-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mkt-sdk/4.0.0-SNAPSHOT/mkt-sdk-4.0.0-20181123.061933-67.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mkt-sdk/4.0.0-SNAPSHOT/mkt-sdk-4.0.0-20181123.061933-67-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mkt-sdk/4.0.0-SNAPSHOT/mkt-sdk-4.0.0-20181123.061933-67-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

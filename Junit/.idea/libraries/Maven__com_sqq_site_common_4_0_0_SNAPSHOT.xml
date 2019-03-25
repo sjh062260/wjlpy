@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:site-common:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-common/4.0.0-SNAPSHOT/site-common-4.0.0-20181127.070832-115.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-common/4.0.0-SNAPSHOT/site-common-4.0.0-20181127.070832-115-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-common/4.0.0-SNAPSHOT/site-common-4.0.0-20181127.070832-115-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

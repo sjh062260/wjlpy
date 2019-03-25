@@ -1,0 +1,33 @@
+*** Settings ***
+Library           RequestsLibrary
+Library           Selenium2Library
+Library           Collections
+Library           DateTime
+Library           String
+Library           OperatingSystem
+
+*** Variables ***
+${username}       admin
+${password}       wjl&20171016
+${host}           http://*.passport.mallshow.net
+${tenantCode}     mallshow
+
+*** Test Cases ***
+index
+    ${login_url}=    Replace String    ${host}    *    ${tenantCode}
+    log    ${login_url}
+    Create Session    mallshow    ${login_url}
+    ${data}=    Create Dictionary    username=${username}    password=${password}    source=    rc =
+    &{headers}=    Create Dictionary    Content-Type=application/x-www-form-urlencoded
+    ${resp}=    Post Request    mallshow    /login/doLogin.json    data=${data}    headers=${headers}
+    log    ${resp.text}
+    ${resp}=    Get Request    mallshow    /plat/index
+    log    ${resp.text}
+    @{links}=    get regexp matches    ${resp.text}    href=.*html
+    @{links}=    remove duplicates    ${links}
+    ${length}=    get length    ${links}
+    log    ${length}
+    : FOR    ${i}    IN RANGE    ${length}
+    \    log    @{links}[${i}]
+    \    ${reqUrl}=    Remove String    @{links}[${i}]    href="
+    \    log    ${reqUrl}

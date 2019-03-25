@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:sqq-tool-redisson:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-redisson/4.0.0-SNAPSHOT/sqq-tool-redisson-4.0.0-20180517.023648-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-redisson/4.0.0-SNAPSHOT/sqq-tool-redisson-4.0.0-20180517.023648-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-redisson/4.0.0-SNAPSHOT/sqq-tool-redisson-4.0.0-20180517.023648-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

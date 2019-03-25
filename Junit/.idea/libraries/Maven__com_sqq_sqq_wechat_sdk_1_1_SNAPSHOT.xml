@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:sqq-wechat-sdk:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-wechat-sdk/1.1-SNAPSHOT/sqq-wechat-sdk-1.1-20181116.100331-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-wechat-sdk/1.1-SNAPSHOT/sqq-wechat-sdk-1.1-20181116.100331-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-wechat-sdk/1.1-SNAPSHOT/sqq-wechat-sdk-1.1-20181116.100331-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

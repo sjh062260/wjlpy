@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:sqq-tool-mq:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-mq/4.0.0-SNAPSHOT/sqq-tool-mq-4.0.0-20180704.031201-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-mq/4.0.0-SNAPSHOT/sqq-tool-mq-4.0.0-20180704.031201-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/sqq-tool-mq/4.0.0-SNAPSHOT/sqq-tool-mq-4.0.0-20180704.031201-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

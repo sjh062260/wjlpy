@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:crm-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/crm-sdk/4.0.0-SNAPSHOT/crm-sdk-4.0.0-20181122.021022-164.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/crm-sdk/4.0.0-SNAPSHOT/crm-sdk-4.0.0-20181122.021022-164-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/crm-sdk/4.0.0-SNAPSHOT/crm-sdk-4.0.0-20181122.021022-164-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:plat-schedule-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-schedule-sdk/4.0.0-SNAPSHOT/plat-schedule-sdk-4.0.0-20181203.085956-24.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-schedule-sdk/4.0.0-SNAPSHOT/plat-schedule-sdk-4.0.0-20181203.085956-24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/plat-schedule-sdk/4.0.0-SNAPSHOT/plat-schedule-sdk-4.0.0-20181203.085956-24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

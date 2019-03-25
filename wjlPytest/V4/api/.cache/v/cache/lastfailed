@@ -1,0 +1,20 @@
+{
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_HHYD-END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_HHYD-ING]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_HHYD-MEMBER_END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_HHYD-PRE]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_HHYD-SOON]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_PPYH-END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_PPYH-ING]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_PPYH-MEMBER_END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_PPYH-PRE]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_PPYH-SOON]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_SCHD-END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_SCHD-ING]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_SCHD-MEMBER_END]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_SCHD-PRE]": true, 
+  "test_consumer.py::TestConsumer::()::test_themeActivity_list[ACT_SCHD-SOON]": true, 
+  "test_trade.py::TestTrade::()::test_create_order": true, 
+  "test_trade.py::TestTrade::()::test_findbyNo": true, 
+  "test_wopStandard.py::TestWopStandard::()::test_tenantInfo": true
+}

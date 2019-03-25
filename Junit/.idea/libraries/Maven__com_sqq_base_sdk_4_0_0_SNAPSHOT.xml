@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:base-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/base-sdk/4.0.0-SNAPSHOT/base-sdk-4.0.0-20181129.092355-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/base-sdk/4.0.0-SNAPSHOT/base-sdk-4.0.0-20181129.092355-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/base-sdk/4.0.0-SNAPSHOT/base-sdk-4.0.0-20181129.092355-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:site-jfinal:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-jfinal/4.0.0-SNAPSHOT/site-jfinal-4.0.0-20181127.073336-111.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-jfinal/4.0.0-SNAPSHOT/site-jfinal-4.0.0-20181127.073336-111-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/site-jfinal/4.0.0-SNAPSHOT/site-jfinal-4.0.0-20181127.073336-111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

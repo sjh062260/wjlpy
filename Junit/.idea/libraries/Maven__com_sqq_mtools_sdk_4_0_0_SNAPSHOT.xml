@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sqq:mtools-sdk:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mtools-sdk/4.0.0-SNAPSHOT/mtools-sdk-4.0.0-20181203.094545-55.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mtools-sdk/4.0.0-SNAPSHOT/mtools-sdk-4.0.0-20181203.094545-55-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sqq/mtools-sdk/4.0.0-SNAPSHOT/mtools-sdk-4.0.0-20181203.094545-55-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
